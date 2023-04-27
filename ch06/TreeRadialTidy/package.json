@@ -1,0 +1,14 @@
+{
+  "name": "@d3/radial-tree",
+  "main": "6b2dbe02ff43d031@268.js",
+  "version": "268.0.0",
+  "homepage": "https://observablehq.com/@d3/radial-tree",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

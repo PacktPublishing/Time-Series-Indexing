@@ -1,0 +1,14 @@
+{
+  "name": "@d3/zoomable-icicle",
+  "main": "349116b280ed2fdf@251.js",
+  "version": "251.0.0",
+  "homepage": "https://observablehq.com/@d3/zoomable-icicle",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

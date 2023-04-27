@@ -1,0 +1,14 @@
+{
+  "name": "@d3/collapsible-tree",
+  "main": "e257f81c745be447@360.js",
+  "version": "360.0.0",
+  "homepage": "https://observablehq.com/@d3/collapsible-tree",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
