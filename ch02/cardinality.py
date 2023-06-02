@@ -35,7 +35,7 @@ def main():
         # Plot a horizontal line using axhline() in pyplot
         plt.axhline(y=i, color='r', linestyle='-.', linewidth=2)
 
-    xLabel = "Cardinality " + str(n)
+    xLabel = "Cardinality " + sys.argv[1]
 
     ax.set_ylim(minValue, maxValue)
     ax.set_xlabel(xLabel, fontsize=14)
