@@ -1,6 +1,6 @@
 # Time Series Indexing
 
-<a href="https://www.packtpub.com/product/time-series-indexing/9781838821951?utm_source=github&utm_medium=repository&utm_campaign=9781838821951"><img src="[https://content.packt.com/B14769/cover_image_small.jpg](https://content.packt.com/B14769/cover_image_small.jpg)" alt="Time Series Indexing" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/time-series-indexing/9781838821951?utm_source=github&utm_medium=repository&utm_campaign=9781838821951"><img src="https://content.packt.com/B14769/cover_image_small.jpg" (https://content.packt.com/B14769/cover_image_small.jpg)" alt="Time Series Indexing" height="256px" align="right"></a>
 
 This is the code repository for [Time Series Indexing](https://www.packtpub.com/product/time-series-indexing/9781838821951?utm_source=github&utm_medium=repository&utm_campaign=9781838821951), published by Packt.
 
